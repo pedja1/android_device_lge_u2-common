@@ -12,7 +12,7 @@
     <item name="dsp.audio">150</item>
     <item name="dsp.video">200</item>
     <item name="radio.active">150</item>
-    <item name="gps.on">55</item>
+    <item name="gps.on">170</item>
     <item name="battery.capacity">2150</item>
     <item name="radio.scanning">90</item>
     <array name="radio.on">
