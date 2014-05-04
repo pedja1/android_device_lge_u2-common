@@ -5,7 +5,7 @@
 	  acPortName="/dev/ttyO2" lBaudRate="460800"  cLogEnabled="true" acLogDirectory="/sdcard/gps/log"
        enhanced-assisted="false" cLogEnableInitState="false"
               
-       arp-supl-enable="true" arp-supl-cap-msb="true" arp-supl-cap-msa="true" arp-supl-cap-ecid="false"
+       arp-supl-enable="true" arp-supl-cap-msb="true" arp-supl-cap-msa="true" arp-supl-cap-ecid="true"
 	   acSuplServer="supl.google.com" SuplPort="7276" tlsCertPath="/system/etc/cert/lge.cer" 
        tlsStopForInvPath="true" arp-supl-use-apn="true" arp-supl-interface-device="rmnet0"
        ReAidingType="3" ReAidingRetryIntervalSec="10" ReAidingIntervalSec="1800"
